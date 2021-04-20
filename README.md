@@ -1,2 +1,2 @@
 # rsschool-cv
-Welcome aboard, Captain!
+https://melnikdaniil.github.io/rsschool-cv/cv
